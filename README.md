@@ -29,6 +29,7 @@ Before you can run the tested code provided in this repository, it's essential t
 pip install qiskit_machine_learning
 pip install qiskit_aer
 pip install qiskit
+```
 
 # Synthetic Dataset Generation for Machine Learning
 
