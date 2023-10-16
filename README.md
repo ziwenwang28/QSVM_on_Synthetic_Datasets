@@ -50,3 +50,6 @@ This code is responsible for generating a synthetic dataset for use in machine l
 6. **Data preprocessing is performed, including standardization using StandardScaler, and principal component analysis (PCA) is applied.
 
 The dataset generation process prepares the data for use in training and evaluating machine learning models, including classical Support Vector Machines (SVMs) and Quantum Support Vector Machines (QSVMs) with various feature maps and optimizers. The code explores different configurations to identify the most effective setup.
+
+## Caution
+This warning note informs users that the training process can be lengthy and ensures they are prepared for potential delays.
